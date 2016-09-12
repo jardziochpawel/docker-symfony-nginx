@@ -1,4 +1,4 @@
-FROM nginx:1.11.1-alpine
+FROM nginx:1.11.3-alpine
 
 # From PHP container:
 # 82 is the standard uid/gid for "www-data" in Alpine
